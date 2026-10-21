@@ -1,0 +1,13 @@
+INFO:     Will watch for changes in these directories: ['C:\\Users\\Vipin Mankar\\Desktop\\dist']
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [31656] using WatchFiles
+INFO:     Started server process [21164]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+Device: cpu
+INFO:     127.0.0.1:57192 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57105 - "GET /app HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:57105 - "GET /app/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57105 - "GET /app/assets/index-Csno5nHV.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65413 - "GET /app/assets/index-Bm1v9tjT.css HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57105 - "GET /app/vite.svg HTTP/1.1" 200 OK

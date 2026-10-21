@@ -1,0 +1,22 @@
+# Core runtime dependencies
+fastapi
+uvicorn
+pydantic
+requests
+edge-tts
+imageio-ffmpeg
+
+# App runtime helpers used by the current backend
+python-multipart
+python-dotenv
+PyPDF2
+python-pptx
+gTTS
+pyttsx3
+
+# Optional AI image stack (lazy-loaded only when enabled)
+diffusers
+transformers
+accelerate
+huggingface_hub
+torch
